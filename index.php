@@ -9,6 +9,7 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
+	<h1>Juego en Web</h1>
 	<div id="juego">
 		
 	</div>

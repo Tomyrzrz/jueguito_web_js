@@ -10,6 +10,7 @@
 </head>
 <body>
 	<h1>Juego en Web</h1>
+	<h3> Hola me llamo Yoselin Albino</h3>
 	<div id="juego">
 		
 	</div>

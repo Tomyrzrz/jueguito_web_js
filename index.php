@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
-	<h1>Juego en Web</h1>
+	<h1>Juego en Web el mas chido para Todos</h1>
 	<h3> Hola me llamo Yoselin Albino</h3>
 	<div id="juego">
 		
